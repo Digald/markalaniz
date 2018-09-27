@@ -2797,7 +2797,7 @@ input, select, textarea {
 		}
 
 		.features li {
-			width: calc(33.3333333333% - 2em);
+			width: calc(50% - 2em);
 			margin-left: 2em;
 			margin-top: 3em;
 			padding: 0;
@@ -2871,27 +2871,46 @@ input, select, textarea {
 			}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: #60DBFC;
 			}
 
 			.statistics li.style2 {
-				background-color: #c79cc8;
+				background-color: #47A248;
 			}
 
 			.statistics li.style3 {
-				background-color: #a89cc8;
+				background-color: #9e9e9e;
 			}
 
 			.statistics li.style4 {
-				background-color: #9bb2e1;
+				background-color: #339933;
 			}
 
 			.statistics li.style5 {
-				background-color: #8cc9f0;
+				background-color: #764ABC;
 			}
 			.statistics li.style6 {
-				background-color: #8ad694;
+				background-color: #0769AD;
 			}
+			.statistics li.style7 {
+				background-color: #DE4F4F;
+			}
+			.statistics li.style8 {
+				background-color: #4479A1;
+			}
+			.statistics li.style9 {
+				background-color: #F05032;
+			}
+			.statistics li.style10 {
+				background-color: #E34F26;
+			}
+			.statistics li.style11 {
+				background-color: #1572B6;
+			}
+			.statistics li.style12 {
+				background-color: #F7DF1E;
+			}
+
 
 			.statistics li strong, .statistics li b {
 				display: block;
