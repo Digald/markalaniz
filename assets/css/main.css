@@ -3752,3 +3752,13 @@ input, select, textarea {
 			}
 
 		}
+/* My custom styles */
+.tech-icon {
+	/* margin-top: 0.5rem; */
+	width: 4rem;
+	padding: 0.5rem;
+}
+
+.express-custom {
+	height: 64px;
+}
