@@ -161,7 +161,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease, border-bottom 0.2s ease;
 		transition: color 0.2s ease, border-bottom 0.2s ease;
 		text-decoration: none;
-		border-bottom: dotted 1px;
+		/* border-bottom: dotted 1px; */
 		color: inherit;
 	}
 
@@ -2790,11 +2790,12 @@ input, select, textarea {
 		margin: 0 0 3em -2em;
 		padding: 0;
 		list-style: none;
-	}
+	}	
 		.project {
 			width: 100%;
-			border: 1px solid black;
+			border: 1px solid #d1d1d1;
 		}
+		
 
 		.features li {
 			width: calc(50% - 2em);
@@ -2803,9 +2804,9 @@ input, select, textarea {
 			padding: 0;
 		}
 
-			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3) {
+			/* .features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3) {
 				margin-top: 0;
-			}
+			} */
 
 			.features li > :last-child {
 				margin-bottom: 0;
@@ -2850,7 +2851,7 @@ input, select, textarea {
 		display: -ms-flex;
 		display: flex;
 		flex-wrap: wrap;
-		justify-content: space-between;
+		justify-content: center;
 		width: 100%;
 		margin: 0 0 3em 0;
 		padding: 0;
