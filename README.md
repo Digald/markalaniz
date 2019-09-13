@@ -1,5 +1,5 @@
 # Personal Portfolio for Mark Alaniz
-View my page at: https://digald.github.io/markalaniz/
+# DEPRECATED
 
 Second iteration of my personal portfolio. Now in a static single page format.
 
